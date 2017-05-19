@@ -1,0 +1,22 @@
+{
+  "name": "barms",
+  "version": "1.0.0",
+  "description": "Moe bartender chatbot on MS Bot Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/markswoods/barms.git"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "Mark Woods",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markswoods/barms/issues"
+  },
+  "homepage": "https://github.com/markswoods/barms#readme"
+}
